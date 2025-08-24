@@ -3,11 +3,11 @@
 ## 新サーバーについて
 今までは“統合版＊のサーバー”を起動させていたのですが、安定して動作しなかったので“統合版も入れるJava版＊のサーバー”を起動します
 
-*Java版・・・マイクラのエディション　PC限定
+＊統合版・・・（Minecraft BedrockEdition）  PC、スマホ、Switch、PlayStationなど
 
-*統合版・・・（Minecraft BedrockEdition）  PC、スマホ、Switch、PlayStationなど
+＊Java版・・・マイクラのエディション　PC限定
 ### 変更内容
-・**Java版、統合版のどちらでも参加できるようになります**
+・**Java版、統合版のどちらでも参加できるようになります**（Java版を持っている人は**Java版でのプレイを推奨**）
 
 ・中身はJava版なので、おそらくトラップなどはJava版仕様でないと動かないと思います
 
